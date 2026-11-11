@@ -1,0 +1,5 @@
+# Configuración local del editor / vista previa
+.claude/
+.vscode/
+Thumbs.db
+desktop.ini
